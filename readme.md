@@ -1,4 +1,4 @@
-# Jogo feito na Maratona Explorer da Rocketseat
+# Jogo do futuro - Maratona Explorer da Rocketseat
 
 # HTML
 - HyperText Markup Language
